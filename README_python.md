@@ -32,3 +32,5 @@ Node
 - Abra o arquivo .msi baixado e clique em next em todas as etapas, mantendo as opções padrão marcadas (incluindo npm);
 finalize clicando em "Install"
 - Verifique a intalação abrindo o prompt de comando e digite: "node --version" e também "npm --version", as versões instaladas deverão aparecer na tela.
+
+## Readme a respeito do arquivo "teste1palindromo.py" incluído neste repositório.
