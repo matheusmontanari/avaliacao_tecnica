@@ -1,7 +1,7 @@
 # Verificador de palíndromos
 
 ## Visão Técnica
-O projeto consiste em um script realizado em Python que identifica se uma palavra é ou não um palíndromo, ou seja, se pode ser lida da mesma forma de trás para frente.
+O projeto consiste em um script realizado em Python que identifica se uma palavra é ou não um palíndromo, ou seja, que pode ser lida da mesma forma de trás para frente.
 A entrada é capturada por input(), é realizada a conversão dos caracteres digitados para letras minúsculas com .lower(),
 a comparação da palavra digitada com a sua versão invertida é realizada utilizando slicing( [::-1] ), para retornar o resultado da verificação é utilizada a estrutura condicional if/else e conta com o uso de f-strings para um código mais legível.
 O projeto foi desenvolvido no Visual Studio Code, utilizando Python 3.8 como linguagem.
